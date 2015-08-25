@@ -1,0 +1,5 @@
+Marathon!" is a software that provides profiles of runners and stimulation environments for a user to use. Each option is accessible from a simple main menu. 
+
+The simulation runs by a button that the user presses on the top of the window. The runner outcomes are randomized. The user can run as many simulations as the user wants. 
+
+The marathon profile has no interface for the user to switch profiles; the program does it on its own, via a timeline. 
